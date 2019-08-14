@@ -1,5 +1,5 @@
 # Base image
-FROM mongo:4.0.8
+FROM mongo:4.2.0
 
 # Expose ports
 EXPOSE 27017 27018 27019 28017
